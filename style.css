@@ -45,9 +45,10 @@ body{
     background: linear-gradient(hsl(293, 100%, 63%), hsl(264, 100%, 61%));
     height: 750px;
     width: 500px;
-    border-bottom-left-radius: 300px;
-    border-bottom-right-radius: 300px;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
     float: left;
+    margin-left: -10%;
 }
 
 .phone{
